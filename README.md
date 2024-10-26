@@ -28,3 +28,6 @@ Matplotlib for visualization
 NumPy for numerical computations
 
 The project provides insights into the topological structure of airport networks and demonstrates how they differ from random network models, particularly in terms of degree distribution and clustering patterns.
+
+To use this project:
+download both files and set the path in the jupyter notebook to the correct path
